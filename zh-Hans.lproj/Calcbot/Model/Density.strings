@@ -3,20 +3,20 @@
 <plist version="1.0">
   <dict>
     <key>Density</key>
-    <string>Density</string>
+    <string>密度</string>
     <key>Gram/Litre</key>
-    <string>Gram/Litre</string>
+    <string>克/公升</string>
     <key>Kilogram/Cubic Metre</key>
-    <string>Kilogram/Cubic Metre</string>
+    <string>千克/立方米</string>
     <key>Pound/Cubic Foot</key>
-    <string>Pound/Cubic Foot</string>
+    <string>磅/立方英尺</string>
     <key>Pound/Gallon (Imperial)</key>
-    <string>Pound/Gallon (Imperial)</string>
+    <string>磅/加仑 (UK)</string>
     <key>Pound/Gallon</key>
-    <string>Pound/Gallon</string>
+    <string>磅/加仑 (US)</string>
     <key>Gram/Cubic CM</key>
-    <string>Gram/Cubic CM</string>
+    <string>克/立方公分</string>
     <key>Pound/Cubic Inch</key>
-    <string>Pound/Cubic Inch</string>
+    <string>磅/立方英寸</string>
   </dict>
 </plist>
