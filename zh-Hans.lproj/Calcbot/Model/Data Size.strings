@@ -3,50 +3,50 @@
 <plist version="1.0">
   <dict>
     <key>Data Size</key>
-    <string>Data Size</string>
+    <string>数据大小</string>
     <key>Bit</key>
-    <string>Bit</string>
+    <string>比特</string>
     <key>Byte</key>
-    <string>Byte</string>
+    <string>字节</string>
     <key>Kilobit (SI)</key>
-    <string>Kilobit (SI)</string>
+    <string>千比特（十进制）</string>
     <key>Kilobit</key>
-    <string>Kilobit</string>
+    <string>千比特</string>
     <key>Kilobyte (SI)</key>
-    <string>Kilobyte (SI)</string>
+    <string>千字节（十进制）</string>
     <key>Kilobyte</key>
-    <string>Kilobyte</string>
+    <string>千字节</string>
     <key>Megabit (SI)</key>
-    <string>Megabit (SI)</string>
+    <string>兆比特（十进制）</string>
     <key>Megabit</key>
-    <string>Megabit</string>
+    <string>兆比特</string>
     <key>Megabyte (SI)</key>
-    <string>Megabyte (SI)</string>
+    <string>兆字节（十进制）</string>
     <key>Megabyte</key>
-    <string>Megabyte</string>
+    <string>兆字节</string>
     <key>Gigabit (SI)</key>
-    <string>Gigabit (SI)</string>
+    <string>吉比特（十进制）</string>
     <key>Gigabit</key>
-    <string>Gigabit</string>
+    <string>吉比特</string>
     <key>Gigabyte (SI)</key>
-    <string>Gigabyte (SI)</string>
+    <string>吉字节（十进制）</string>
     <key>Gigabyte</key>
-    <string>Gigabyte</string>
+    <string>吉字节</string>
     <key>Terabit (SI)</key>
-    <string>Terabit (SI)</string>
+    <string>太比特（十进制）</string>
     <key>Terabit</key>
-    <string>Terabit</string>
+    <string>太比特</string>
     <key>Terabyte (SI)</key>
-    <string>Terabyte (SI)</string>
+    <string>太字节（十进制）</string>
     <key>Terabyte</key>
-    <string>Terabyte</string>
+    <string>太字节</string>
     <key>Petabit (SI)</key>
-    <string>Petabit (SI)</string>
+    <string>拍比特（十进制）</string>
     <key>Petabit</key>
-    <string>Petabit</string>
+    <string>拍比特</string>
     <key>Petabyte (SI)</key>
-    <string>Petabyte (SI)</string>
+    <string>拍字节（十进制）</string>
     <key>Petabyte</key>
-    <string>Petabyte</string>
+    <string>拍字节</string>
   </dict>
 </plist>
