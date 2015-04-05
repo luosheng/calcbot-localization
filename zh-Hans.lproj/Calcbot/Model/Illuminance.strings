@@ -3,24 +3,24 @@
 <plist version="1.0">
   <dict>
     <key>Illuminance</key>
-    <string>Illuminance</string>
+    <string>照度</string>
     <key>Millilux</key>
-    <string>Millilux</string>
+    <string>毫勒克斯</string>
     <key>Nox</key>
-    <string>Nox</string>
+    <string>诺克斯</string>
     <key>Lumen/Square Metre</key>
-    <string>Lumen/Square Metre</string>
+    <string>流明/平方米</string>
     <key>Lux</key>
-    <string>Lux</string>
+    <string>勒克斯</string>
     <key>Foot Candle</key>
-    <string>Foot Candle</string>
+    <string>英尺烛光</string>
     <key>Lumen/Square Foot</key>
-    <string>Lumen/Square Foot</string>
+    <string>流明/平方英尺</string>
     <key>Kilolux</key>
-    <string>Kilolux</string>
+    <string>千勒克斯</string>
     <key>Lumen/Square CM</key>
-    <string>Lumen/Square CM</string>
+    <string>流明/平方厘米</string>
     <key>Phot</key>
-    <string>Phot</string>
+    <string>辐透</string>
   </dict>
 </plist>
